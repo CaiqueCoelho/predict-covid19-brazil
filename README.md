@@ -7,3 +7,4 @@ Part 2: Análise e predição do crescimento de casos de COVID-19 (coronavírus)
 https://medium.com/@caiquecoelho/an%C3%A1lise-e-predi%C3%A7%C3%A3o-do-crescimento-de-casos-de-covid-19-coronav%C3%ADrus-no-brasil-parte-2-19f296c37e90
 
 Part 3: Análise e predições para o achatamento da curva de COVID-19 no Brasil: Uma abordagem com IA e SIR - Parte 3
+https://medium.com/@caiquecoelho/an%C3%A1lise-e-predi%C3%A7%C3%B5es-para-o-achatamento-da-curva-de-covid-19-no-brasil-uma-abordagem-com-ia-e-sir-e6eb7ff91b3
