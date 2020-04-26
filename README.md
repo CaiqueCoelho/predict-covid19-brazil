@@ -8,3 +8,6 @@ https://medium.com/@caiquecoelho/an%C3%A1lise-e-predi%C3%A7%C3%A3o-do-cresciment
 
 Part 3: Análise e predições para o achatamento da curva de COVID-19 no Brasil: Uma abordagem com IA e SIR - Parte 3
 https://medium.com/@caiquecoelho/an%C3%A1lise-e-predi%C3%A7%C3%B5es-para-o-achatamento-da-curva-de-covid-19-no-brasil-uma-abordagem-com-ia-e-sir-e6eb7ff91b3
+
+Part 4: Prevendo o real número de infectados e o fim da COVID-19 no Brasil, utilizando inteligência artificial e SIR — Parte 4
+https://medium.com/@caiquecoelho/prevendo-o-real-n%C3%BAmero-de-infectados-e-o-fim-da-covid-19-no-brasil-utilizando-intelig%C3%AAncia-f7e87f902d4d?source=friends_link&sk=00365e729375afb98fd813bfdd41aa73
