@@ -11,3 +11,6 @@ https://medium.com/@caiquecoelho/an%C3%A1lise-e-predi%C3%A7%C3%B5es-para-o-achat
 
 Part 4: Prevendo o real número de infectados e o fim da COVID-19 no Brasil, utilizando inteligência artificial e SIR — Parte 4
 https://medium.com/@caiquecoelho/prevendo-o-real-n%C3%BAmero-de-infectados-e-o-fim-da-covid-19-no-brasil-utilizando-intelig%C3%AAncia-f7e87f902d4d?source=friends_link&sk=00365e729375afb98fd813bfdd41aa73
+
+Part 5: Inteligência artificial e SIR na predição do fim da primeira onda do coronavírus no Brasil— Parte 5
+https://medium.com/@caiquecoelho/intelig%C3%AAncia-artificial-e-sir-na-predi%C3%A7%C3%A3o-do-fim-da-primeira-onda-do-coronav%C3%ADrus-no-brasil-parte-5-f3c2bc682fdc
