@@ -14,3 +14,6 @@ https://medium.com/@caiquecoelho/prevendo-o-real-n%C3%BAmero-de-infectados-e-o-f
 
 Part 5: Inteligência artificial e SIR na predição do fim da primeira onda do coronavírus no Brasil— Parte 5
 https://medium.com/@caiquecoelho/intelig%C3%AAncia-artificial-e-sir-na-predi%C3%A7%C3%A3o-do-fim-da-primeira-onda-do-coronav%C3%ADrus-no-brasil-parte-5-f3c2bc682fdc
+
+Part 6: Prevemos a catástrofe da COVID-19 de 2021 utilizando IA e SIR - Parte 6
+https://caiquecoelho.medium.com/prevemos-a-cat%C3%A1strofe-da-covid-19-de-2021-utilizando-ia-e-sir-80be7822d8b3
